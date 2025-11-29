@@ -11,7 +11,7 @@ A stylish, single-page web application to generate and share beautiful music alb
 
 ## 🌐 Live Demo
 
-**[https://musicshare.aronnax.site](https://musicshare.aronnax.site)**
+**[https://hel1umhe.github.io/CoverShareMobileFix/](https://hel1umhe.github.io/CoverShareMobileFix/)**
 
 ## ✨ Features
 
